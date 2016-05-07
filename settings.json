@@ -1,0 +1,13 @@
+{
+    "hello": "I'm private",
+    "public":{
+        "ga":{
+            "account": "UA-XXXXXXXXXX-X"
+        }
+    },
+    "private":{
+        "api-key":{
+            "value": "xxxx"
+        }
+    }
+}
